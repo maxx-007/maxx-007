@@ -60,4 +60,4 @@ Here's a glimpse of my skill set:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxx-007&layout=compact&theme=radical)
 
 ---
-
+- 📫 How to reach me **krish.hadkar07@gmail.com**
