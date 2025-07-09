@@ -53,11 +53,11 @@ Here's a glimpse of my skill set:
 
 ### 📊 My GitHub Stats:
 
-![GitHub Views](https://komarev.com/ghpvc/?username=krishhadkar)
+![GitHub Views](https://komarev.com/ghpvc/?username=maxx-007)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishhadkar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxx-007&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishhadkar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxx-007&layout=compact&theme=radical)
 
 ---
 
